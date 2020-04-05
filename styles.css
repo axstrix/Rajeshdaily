@@ -1,0 +1,39 @@
+body{
+  background-color: #e3fdfd;
+}
+
+h1{
+
+  color: #08d9d6;
+  text-align: center;
+  text-decoration: underline;
+  letter-spacing: 2px;
+  text-shadow: 1.3px 1.3px;
+}
+
+h3{
+  color: #08d9d6;
+
+}
+
+img{
+  height: 350px;
+}
+
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+
+}
+
+h4{
+  color: #08d9d6;
+}
+
+thead{
+  color: #0074e4;
+}
